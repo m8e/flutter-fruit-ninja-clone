@@ -1,3 +1,5 @@
+https://dev.to/flutterclutter/flutter-game-tutorial-fruit-slicing-25fh
+
 # flutter_fruit_ninja_clone
 
 A basic clone of the popular game Fruit Ninja
